@@ -2,5 +2,5 @@
 
 A python package for
 
-* automating the assignment of letter grades for UBLearns; and
+* automating the assignment of letter grades after using UBLearns
 * automating the uploading of grades into UBHub
