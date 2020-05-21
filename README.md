@@ -1,2 +1,6 @@
 # pyGrades_UB
-python helper code to automate the assignment of grades using UBLearns and UB Hub
+
+A python package for
+
+* automating the assignment of letter grades for UBLearns; and
+* automating the uploading of grades into UBHub
